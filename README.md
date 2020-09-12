@@ -1,5 +1,5 @@
 # dat2json
-Dat2Json - tool for .DAT to .JSON converter and fixing .DAT
+dat2json ‒ tool for .DAT to .JSON converter and fixing .DAT
 
 # how to use?
 1. just open cmd in current directory with script
